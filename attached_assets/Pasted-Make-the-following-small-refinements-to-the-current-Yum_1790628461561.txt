@@ -1,0 +1,82 @@
+Make the following small refinements to the current YummY Fast Food website.
+
+IMPORTANT:
+Do not redesign the website from scratch.
+Do not change the existing overall layout, visual style, typography, food imagery, section count, or mobile-first design.
+Keep the current Black / White / Red visual identity.
+
+Only make these specific changes:
+
+1. OFFICIAL TAGLINE
+    Replace the current tagline/subheadline:
+    “Crispy fried chicken wings and Sichuan Mala skewers, made for the neighborhood.”
+
+with the exact official tagline:
+
+“Chicken Wings & Sichuan Mala Skewers”
+
+Make this tagline clearly visible in the hero section directly under “YummY Fast Food”.
+
+You may keep a very short supporting sentence underneath if it improves the design, but do not replace or hide the official tagline.
+
+2. GRABFOOD BUTTON
+    Keep the existing GrabFood destination:
+    https://r.grab.com/o/0SaUgIMy
+
+Change the main CTA text to exactly:
+“ORDER ON GRABFOOD”
+
+Keep the existing GrabFood buttons in their current locations if they are already working well.
+
+3. ADDRESS READABILITY
+    Keep the exact address information unchanged:
+
+စစ်ကိုင်း-မန်းလမ်း၊
+ဦးပွါးကုန်းကျော် အရှေ့ဖက် အဆင်း၊
+COCO Store ၏ မျက်နှာချင်းဆိုင်လမ်းကြား၊
+78 လမ်း၊ 104 × 105 ကြား၊
+Mandalay City, Myanmar
+
+Format it into visually separated lines/chunks so it is easier to scan on an iPhone.
+
+Do NOT remove any landmark or road information.
+
+4. VISIT INFORMATION
+    Keep the existing opening hours and phone number exactly:
+
+12:00 PM – 8:00 PM
+09-452978877
+
+Keep:
+
+* CALL NOW → tel:09452978877
+* GET DIRECTIONS → https://maps.app.goo.gl/ymFGWhoz6gZKSqWf9?g_st=ic
+
+5. TIKTOK
+    Keep the existing TikTok destination:
+    https://www.tiktok.com/@yummy.fried.chick?_r=1&_t=ZS-9A7PLIeZ00i
+
+Do not change the TikTok section design unless necessary.
+
+6. MENU
+    Keep exactly these five menu items:
+
+YummY Original Wings
+YummY Cola Wings
+YummY Sweet & Hot Wings
+YummY Honey Butter Wings
+YummY Signature Orange Wings
+
+Do not add prices or additional menu items.
+
+7. FINAL QUALITY CHECK
+    After making the changes:
+
+* Check all buttons and links.
+* Make sure the website works well on mobile/iPhone.
+* Make sure no placeholder text remains.
+* Make sure no fake information has been added.
+* Make sure the official tagline is visible.
+* Make sure the website still feels premium, clean, appetizing, and like an official YummY brand website.
+
+Do not add new sections or unnecessary features.

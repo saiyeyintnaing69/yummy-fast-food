@@ -1,0 +1,54 @@
+Create a professional, mobile-first one-page official business website for YummY Fast Food in Mandalay, Myanmar.
+
+Business:
+
+* Name: YummY Fast Food
+* Tagline: Chicken Wings & Sichuan Mala Skewers
+* Phone: 09-452978877
+* Opening Hours: 12:00 PM – 8:00 PM
+* Address: စစ်ကိုင်း-မန်းလမ်း၊ ဦးပွားကုန်းကျော် အရှေ့ဖက် အဆင်း၊ COCO Store ၏ မျက်နှာချင်းဆိုင်လမ်းကြား၊ 78 လမ်း၊ 104 × 105 ကြား၊ Mandalay City, Myanmar
+
+About YummY:
+YummY has its own signature seasoning and sauces, with the long-term goal of building YummY into a distinctive food brand. We want to give customers a crispy, juicy and satisfying fried chicken experience.
+
+Menu:
+
+1. YummY Original Wings
+2. YummY Cola Wings
+3. YummY Sweet & Hot Wings
+4. YummY Honey Butter Wings
+5. YummY Signature Orange Wings
+
+Links:
+
+* GrabFood: https://r.grab.com/o/0SaUgIMy
+* TikTok: https://www.tiktok.com/@yummy.fried.chick?_r=1&_t=ZS-9A7PLIeZ00i
+* Google Maps: https://maps.app.goo.gl/ymFGWhoz6gZKSqWf9?g_st=ic
+
+Website requirements:
+
+* Make it mobile-first because most customers will visit from iPhone.
+* Use a professional Black, White and Red visual identity.
+* Make the food imagery visually dominant and appetizing.
+* Keep the layout clean, modern and premium but approachable.
+* Hero section with YummY Fast Food, tagline, and two prominent buttons: “ORDER ON GRABFOOD” and “VIEW MENU”.
+* About YummY section.
+* Chicken Wings menu section.
+* Location and opening hours section.
+* “GET DIRECTIONS” button linked to Google Maps.
+* “CALL NOW” button linked to the phone number.
+* “ORDER ON GRABFOOD” button linked to the GrabFood link.
+* TikTok social button.
+* Add a simple footer with YummY Fast Food and contact information.
+
+Important:
+
+* Do not invent prices.
+* Do not invent reviews, awards, branches, ingredients, or claims.
+* Do not add unnecessary sections yet.
+* Keep the first version simple and fast-loading.
+* Make buttons large and easy to tap on mobile.
+* Use clear typography and strong visual hierarchy.
+* The website should look like an official brand website, not a generic template.
+
+Build the website and show me the running preview when it is ready.
